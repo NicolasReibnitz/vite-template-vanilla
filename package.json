@@ -1,0 +1,16 @@
+{
+	"name": "vite-template-vanilla",
+	"version": "0.0.1",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"sass": "^1.49.0"
+	},
+	"devDependencies": {
+		"@das.laboratory/eslint-config-interactive-next": "latest",
+		"vite": "^2.7.2"
+	}
+}
